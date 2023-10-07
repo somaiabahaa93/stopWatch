@@ -1,0 +1,25 @@
+input 
+{
+    padding: 5px;
+    margin: 5px;
+}
+
+.submit
+{
+    background-color: rgb(69, 69, 227);
+    color: white;
+    padding:  5px 10px;
+    border-radius: 3px;
+}
+
+a 
+{
+    color: white;
+
+}
+
+#error{
+    color: red;
+}
+
+
